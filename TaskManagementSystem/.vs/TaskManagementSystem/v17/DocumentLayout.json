@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\webapplication1\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\webapplication1\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\webapplication1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAD32717-D4C9-4B19-A5A5-3876D76B2D29}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|c:\\users\\oussama\\source\\repos\\taskmanagementsystem\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD7D2CD-4E36-4D7A-9196-5AB9ECDB2FC4}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:54:23.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:34:57.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:54:14.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Data\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Data\\TaskDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:53:24.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\Models\\TaskItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:52:55.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T20:50:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T21:37:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:49:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T20:59:45.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "UserService\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:42:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:49:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\TaskManagementSystem\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T21:50:29.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
