@@ -1,0 +1,41 @@
+<h2>Task List</h2>
+
+<!-- Form to add a new task -->
+<div>
+  <h3>Add New Task</h3>
+  <form (ngSubmit)="addNewTask()">
+    <div>
+      <label for="title">Title:</label>
+      <input type="text" id="title" [(ngModel)]="newTask.title" name="title" required />
+    </div>
+
+    <div>
+      <label for="description">Description:</label>
+      <textarea id="description" [(ngModel)]="newTask.description" name="description"></textarea>
+    </div>
+
+    <div>
+      <label for="completed">
+        <input type="checkbox" id="completed" [(ngModel)]="newTask.completed" name="completed" />
+        Completed
+      </label>
+    </div>
+
+    <button type="submit">Add Task</button>
+  </form>
+</div>
+
+<!-- List of tasks -->
+<ul *ngIf="(tasks$ | async) as tasks; else noTasks">
+  <li *ngFor="let task of tasks">
+    <strong>{{ task.title }}</strong>
+    <p>{{ task.description }}</p>
+    <p>Completed: {{ task.completed ? 'Yes' : 'No' }}</p>
+    <button (click)="deleteTask(task.id)">Delete</button>
+    <button (click)="editTask(task)">Edit</button>
+  </li>
+</ul>
+
+<ng-template #noTasks>
+  <p>No tasks available.</p>
+</ng-template>
